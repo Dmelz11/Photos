@@ -1,2 +1,7 @@
 # Photos
 screenshots
+Book Club Blog Screenshot: <img width="1152" alt="Screenshot 2024-02-24 at 9 58 28 PM" src="https://github.com/Dmelz11/Photos/assets/143745882/89446177-d307-44c7-9a9f-e2ad6da43e0c">
+
+
+Clean Air Screenshot: <img width="1152" alt="Screenshot 2024-02-24 at 9 56 37 PM" src="https://github.com/Dmelz11/Photos/assets/143745882/e728a89d-3f69-47f5-8255-cbf2eaa2f157">
+
